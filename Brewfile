@@ -14,4 +14,4 @@ brew 'hub'
 
 cask 'flux'
 cask 'github-desktop'
-cask 'sublime-text'
+cask 'visual-studio-code'
